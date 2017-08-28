@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clawton1bv1", "clawton1bv1\clawton1bv1.vbproj", "{A1549C7D-69F3-499F-964B-C6EC0FB67795}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clawton1C1", "clawton1C1\clawton1C1.vbproj", "{C75ECD5A-4070-411D-8491-631D50A040FA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{A1549C7D-69F3-499F-964B-C6EC0FB67795}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1549C7D-69F3-499F-964B-C6EC0FB67795}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1549C7D-69F3-499F-964B-C6EC0FB67795}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C75ECD5A-4070-411D-8491-631D50A040FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C75ECD5A-4070-411D-8491-631D50A040FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C75ECD5A-4070-411D-8491-631D50A040FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C75ECD5A-4070-411D-8491-631D50A040FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
