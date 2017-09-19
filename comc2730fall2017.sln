@@ -15,6 +15,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clawton1F1", "WindowsApp1\c
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clawton1G1", "clawton1G1\clawton1G1.vbproj", "{AB122B40-84FD-4EA3-8596-9DE22DC67A11}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clawton1H1", "clawton1H1\clawton1H1.vbproj", "{D656F9E9-0BB9-4628-B9E3-1CE1447D1077}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{AB122B40-84FD-4EA3-8596-9DE22DC67A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB122B40-84FD-4EA3-8596-9DE22DC67A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB122B40-84FD-4EA3-8596-9DE22DC67A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D656F9E9-0BB9-4628-B9E3-1CE1447D1077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D656F9E9-0BB9-4628-B9E3-1CE1447D1077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D656F9E9-0BB9-4628-B9E3-1CE1447D1077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D656F9E9-0BB9-4628-B9E3-1CE1447D1077}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
