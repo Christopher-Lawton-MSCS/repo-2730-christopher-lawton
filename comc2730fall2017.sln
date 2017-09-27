@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clawton1bv1", "clawton1bv1\clawton1bv1.vbproj", "{A1549C7D-69F3-499F-964B-C6EC0FB67795}"
 EndProject
@@ -16,6 +16,12 @@ EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clawton1G1", "clawton1G1\clawton1G1.vbproj", "{AB122B40-84FD-4EA3-8596-9DE22DC67A11}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clawton1H1", "clawton1H1\clawton1H1.vbproj", "{D656F9E9-0BB9-4628-B9E3-1CE1447D1077}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Quiz1Review2", "Quiz1Review2\Quiz1Review2.vbproj", "{2D759C17-5B91-43C9-9914-BACE674EDD15}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clawton2A1", "clawton2A1\clawton2A1.vbproj", "{ED93C088-010C-44EE-90B0-890C097970DB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Total Scores Project (NOTES INCLD)", "TotalScoresProject (NOTES INC 2A)\Total Scores Project (NOTES INCLD).vbproj", "{AB8490AC-3483-4455-96A0-A2B77BE69768}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{D656F9E9-0BB9-4628-B9E3-1CE1447D1077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D656F9E9-0BB9-4628-B9E3-1CE1447D1077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D656F9E9-0BB9-4628-B9E3-1CE1447D1077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D759C17-5B91-43C9-9914-BACE674EDD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D759C17-5B91-43C9-9914-BACE674EDD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D759C17-5B91-43C9-9914-BACE674EDD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D759C17-5B91-43C9-9914-BACE674EDD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED93C088-010C-44EE-90B0-890C097970DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED93C088-010C-44EE-90B0-890C097970DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED93C088-010C-44EE-90B0-890C097970DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED93C088-010C-44EE-90B0-890C097970DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8490AC-3483-4455-96A0-A2B77BE69768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8490AC-3483-4455-96A0-A2B77BE69768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8490AC-3483-4455-96A0-A2B77BE69768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8490AC-3483-4455-96A0-A2B77BE69768}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
